@@ -26,6 +26,12 @@
 ![入庫資料](https://github.com/PrueYellow/EBookStoreBackstage/assets/132075279/e3c10f91-8463-4924-8c11-b7939bf50c82)
 
 【使用技術】
-會依代碼維護的難易度使用Entity Formwork與Dapper技術
+Framework - ASP.NET MVC
+Back-end Language - C#，Razor Page
+Front-end Language - HTML, CSS, jQuery, Bootstrap RWD
+Database - Microsoft SQL Server
+Database access technology - Entity Framework，Dapper
+Version control - Git, GitHub
+
 
 ![螢幕擷取畫面 2023-09-12 200146](https://github.com/PrueYellow/EBookStoreBackstage/assets/132075279/52793be8-2e29-4a0b-a025-284e5358f4a6)
